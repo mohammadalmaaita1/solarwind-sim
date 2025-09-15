@@ -61,7 +61,7 @@ The entire system is front-end only — all simulation and calculation logic run
 ![Wind Calculator](./assets/screenshots/wind-calculator.png)
 
 ### Solar Power Module
-![Solar Calculator](./assets/screenshots/solar-calculator.png)
+![Solar Calculator](https://l.top4top.io/p_3545z7cki1.png)
 
 ### Live System Diagram
 ![System Diagram](./assets/screenshots/system-diagram.png)

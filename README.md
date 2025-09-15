@@ -106,3 +106,32 @@ npm run build
 
 # Start production build
 npm start
+
+
+---
+
+## 🤝 Contributing
+This project is currently **closed-source and proprietary**.  
+External contributions are not accepted unless you have explicit written permission from the authors.  
+For suggestions or collaboration inquiries, please contact the team directly.
+
+---
+
+## 🔒 License & Copyright
+Copyright © 2025 Mohammad Almaaita & Zead Shalash.  
+All Rights Reserved.
+
+Unauthorized copying, modification, distribution, or use of this software, via any medium, is strictly prohibited without the express permission of the authors.
+
+---
+
+## 🛡️ Security Notice
+If you discover a security vulnerability within SolarWindSim, please **do not open a public issue**.  
+Instead, contact the project maintainers directly at:
+
+- **Mohammad Almaaita** – mohammadalmaaita15@gmail.com
+
+---
+
+✍️ Created by: **Mohammad Almaaita & Zead Shalash**
+

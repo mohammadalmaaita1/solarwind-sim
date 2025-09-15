@@ -52,7 +52,7 @@ The entire system is front-end only — all simulation and calculation logic run
 ## 📷 Screenshots
 
 ### Dashboard
-![Dashboard](./assets/screenshots/dashboard.png)
+![Dashboard]([./assets/screenshots/dashboard.png](https://b.top4top.io/p_35454x2z51.png))
 
 ### Solar & Wind Power Calculator
 ![Hybrid Calculator](./assets/screenshots/hybrid-calculator.png)

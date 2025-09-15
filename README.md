@@ -79,7 +79,8 @@ This project was developed to introduce new ideas to the world.
 **Team Members**  
 - **Mohammad Almaaita** – ENG  
 - **Zead Shalash** – ENG  
-
+### about us 
+![about us ](https://h.top4top.io/p_3545n7wmp1.png)
 ---
 
 ## ⚡ Getting Started

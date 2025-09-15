@@ -55,19 +55,19 @@ The entire system is front-end only — all simulation and calculation logic run
 ![Dashboard](https://b.top4top.io/p_35454x2z51.png)
 
 ### Solar & Wind Power Calculator
-![Hybrid Calculator](./assets/screenshots/hybrid-calculator.png)
+![Hybrid Calculator](https://b.top4top.io/p_3545v2hz43.png)
 
 ### Wind Power Module
-![Wind Calculator](./assets/screenshots/wind-calculator.png)
+![Wind Calculator](https://a.top4top.io/p_3545jpg1s2.png)
 
 ### Solar Power Module
 ![Solar Calculator](https://l.top4top.io/p_3545z7cki1.png)
 
 ### Live System Diagram
-![System Diagram](./assets/screenshots/system-diagram.png)
+![System Diagram](https://i.top4top.io/p_3545z8pzn1.png)
 
 ### System Analytics
-![System Analytics](./assets/screenshots/system-analytics.png)
+![System Analytics](https://b.top4top.io/p_3545g49271.png)
 
 ---
 
